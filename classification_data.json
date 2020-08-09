@@ -1,0 +1,62 @@
+[
+    {
+        "intent": "greeting",
+        "utterance": "good morning"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "hello there"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "whats up"
+    },
+    {
+        "intent": "book_appointment",
+        "utterance": "I am looking to book a haircut"
+    },
+    {
+        "intent": "book_appointment",
+        "utterance": "help me to set up a haircut with usual stylist"
+    },
+    {
+        "intent": "book_appointment",
+        "utterance": "is tomorrow at 10am ok too book a simple manicure"
+    },
+    {
+        "intent": "business_hours",
+        "utterance": "do you open for business on weekends"
+    },
+    {
+        "intent": "business_hours",
+        "utterance": "when are you closing?"
+    },
+    {
+        "intent": "business_hours",
+        "utterance": "when are you open for business"
+    },
+    {
+        "intent": "ask_about_service",
+        "utterance": "do you offer manicures"
+    },
+    {
+        "intent": "ask_about_service",
+        "utterance": "does your services include pedicures"
+    },
+    {
+        "intent": "ask_about_service",
+        "utterance": "do you have barber on staff for haircuts"
+    },
+    {
+        "intent": "goodbye",
+        "utterance": "see you later"
+    },
+    {
+        "intent": "goodbye",
+        "utterance": "bye for now"
+    },
+    {
+        "intent": "goodbye",
+        "utterance": "chat soon again"
+    }
+]
